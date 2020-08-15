@@ -5,13 +5,12 @@ The task of room layout estimation is to locate the wall-floor, wall-ceiling, an
 
 # Paper
 Weidong Zhang, Wei Zhang, Yinda Zhang. GeoLayout: Geometry Driven Room Layout Estimation Based on Depth Maps of Planes (ECCV'20)
-
+[paper]()
 
 # Matterport3D-Layout dataset
 
 Please visit our [dataset website](https://vsislab.github.io/Matterport3D-Layout/) to download the dataset. 
 
-[paper]()
 
 
 # Contact
