@@ -15,6 +15,12 @@ An illustration of our method that can be trained w/wo depth supervision. Given 
 Please visit our [dataset website](https://vsislab.github.io/Matterport3D-Layout/) to download the dataset. 
 
 # Results
+![image](https://raw.githubusercontent.com/AyaseChihaya/AyaseChihaya.github.io/master/res3d.png)
+Qualitative results on the Matterport3D-Layout dataset. The first two rows are cuboid rooms and the following two rows are non-cuboid rooms. Failure cases are shown in the last two rows.
+
+
+![image](https://raw.githubusercontent.com/AyaseChihaya/AyaseChihaya.github.io/master/res2d.png)
+Qualitative results on the LSUN validation set.
 
 
 # Contact
