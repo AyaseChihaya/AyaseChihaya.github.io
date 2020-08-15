@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/AyaseChihaya/AyaseChihaya.github.io/master/illustration.png)
+![image](https://raw.githubusercontent.com/AyaseChihaya/AyaseChihaya.github.io/master/illustration.jpg)
 
 # Abstract
 <p align="justify">
