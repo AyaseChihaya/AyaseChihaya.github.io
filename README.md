@@ -20,7 +20,7 @@ Qualitative results on the Matterport3D-Layout dataset. The first two rows are c
 
 
 Qualitative results on the LSUN validation set.
-![image](https://raw.githubusercontent.com/AyaseChihaya/AyaseChihaya.github.io/master/res2d.png)
+![image](https://raw.githubusercontent.com/AyaseChihaya/AyaseChihaya.github.io/master/res2d.jpg)
 
 
 
