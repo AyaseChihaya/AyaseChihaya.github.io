@@ -24,4 +24,4 @@ Qualitative results on the LSUN validation set.
 
 
 # Contact
-Email | <info@vsislab.com>, <chluzhre@gmail.com>
+Email | <info@vsislab.com>, <chluzhre@gmail.com>, <yindaz@gmail.com>
