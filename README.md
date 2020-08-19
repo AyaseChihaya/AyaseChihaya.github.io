@@ -15,13 +15,15 @@ Weidong Zhang, Wei Zhang, Yinda Zhang. GeoLayout: Geometry Driven Room Layout Es
 Please visit our [dataset website](https://vsislab.github.io/Matterport3D-Layout/) to download the dataset. 
 
 # Results
+<p align="justify">
 Qualitative results on the Matterport3D-Layout dataset. The first two rows are cuboid rooms and the following two rows are non-cuboid rooms. Failure cases are shown in the last two rows.
+</p>
 
-<img src="https://raw.githubusercontent.com/AyaseChihaya/AyaseChihaya.github.io/master/res3d.jpg" width="625" >
+<img src="https://raw.githubusercontent.com/AyaseChihaya/AyaseChihaya.github.io/master/res3d.jpg" width="635" >
 
 Qualitative results on the LSUN validation set.
 
-<img src="https://raw.githubusercontent.com/AyaseChihaya/AyaseChihaya.github.io/master/res2d.jpg" width="625" >
+<img src="https://raw.githubusercontent.com/AyaseChihaya/AyaseChihaya.github.io/master/res2d.jpg" width="635" >
 
 
 # Contact
