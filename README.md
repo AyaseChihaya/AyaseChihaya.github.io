@@ -16,12 +16,10 @@ Please visit our [dataset website](https://vsislab.github.io/Matterport3D-Layout
 
 # Results
 Qualitative results on the Matterport3D-Layout dataset. The first two rows are cuboid rooms and the following two rows are non-cuboid rooms. Failure cases are shown in the last two rows.
-![image](https://raw.githubusercontent.com/AyaseChihaya/AyaseChihaya.github.io/master/res3d.jpg)
-
+<img src="https://raw.githubusercontent.com/AyaseChihaya/AyaseChihaya.github.io/master/res3d.jpg" width="800" >
 
 Qualitative results on the LSUN validation set.
-![image](https://raw.githubusercontent.com/AyaseChihaya/AyaseChihaya.github.io/master/res2d.jpg)
-
+<img src="https://raw.githubusercontent.com/AyaseChihaya/AyaseChihaya.github.io/master/res2d.jpg" width="800" >
 
 
 # Contact
