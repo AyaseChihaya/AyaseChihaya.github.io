@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/AyaseChihaya/AyaseChihaya.github.io/master/illustration.jpg" width="630">
+<img src="https://raw.githubusercontent.com/AyaseChihaya/AyaseChihaya.github.io/master/illustration.jpg" width="635">
 
 # Abstract
 <p align="justify">
