@@ -11,7 +11,8 @@ Weidong Zhang, Wei Zhang, Yinda Zhang. GeoLayout: Geometry Driven Room Layout Es
 [[Paper]](https://raw.githubusercontent.com/AyaseChihaya/AyaseChihaya.github.io/master/2606.pdf)
 
 # Code
-The testing code for LSUN dataset is available [[Here]](https://1drv.ms/u/s!AvnwLMcAl2NUig04NOC2uIoe2vNC?e=5IO5Df).
+The testing code for LSUN dataset is available [[Here]](https://drive.google.com/file/d/17pGxitsYxjxnYuD8AXVpCkSs_XZqUdh_/view?usp=sharing
+).
 
 # Matterport3D-Layout dataset
 Please visit our [dataset website](https://vsislab.github.io/Matterport3D-Layout/) to download the dataset. 
